@@ -22,10 +22,3 @@ Sistem ini dirakit menggunakan teknologi modern untuk memastikan kecepatan, skal
 * **Snappy Animations:** Transisi *Framer Motion* yang dikonfigurasi khusus dengan efek pegas (*spring/bounce*) agar terasa lebih hidup dan responsif.
 * **100% Mobile Responsive:** Pengalaman pengguna yang dioptimalkan dengan cermat dari layar *smartphone* hingga *desktop* *ultrawide*.
 
-## 🚀 Cara Menjalankan di Localhost
-
-Ingin melihat kode ini bekerja di mesinmu? Ikuti langkah eksekusi brutal di bawah ini:
-
-1. **Clone repository ini**
-   ```bash
-   git clone [https://github.com/StefanusssDwi/nama-repo-kamu.git](https://github.com/StefanusssDwi/nama-repo-kamu.git)
