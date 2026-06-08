@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700&family=Space+Mono:wght@400;700&family=Syne:wght@800&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #FFDE4D;
+    --color-secondary: #CCFF00;
+    --color-tertiary: #000000;
+    --color-neutral: #F4F4F0;
+    --color-quarternary: #FF4D4D;
+    --animate-float: float 3s ease-in-out infinite;
+    --animate-scroll-r2l: scrollR2L 20s linear infinite;
+    --animate-text-gradient: textGradient 3s linear infinite;
+    --font-Isi: 'Plus Jakarta Sans', sans-serif;
+    --font-heading: 'Syne', sans-serif;
+    --font-Mono: 'Space Mono', monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes scrollR2L {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes textGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
