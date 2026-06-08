@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # STEFANUS. | Neubrutalist Personal Portfolio ⚡️
 
 Portofolio interaktif yang dirancang dengan pendekatan desain **Neubrutalism**—menonjolkan antarmuka yang jujur, performan, dan secara struktural berani. Proyek ini bukan sekadar kumpulan tautan, melainkan representasi dari kompetensi IT yang solid dan fokus kuat pada *Frontend Design* yang fungsional.
@@ -39,5 +21,3 @@ Sistem ini dirakit menggunakan teknologi modern untuk memastikan kecepatan, skal
 * **Infinite Tech Marquee:** Animasi CSS murni yang mulus (tanpa putus) untuk memamerkan *tech stack*.
 * **Snappy Animations:** Transisi *Framer Motion* yang dikonfigurasi khusus dengan efek pegas (*spring/bounce*) agar terasa lebih hidup dan responsif.
 * **100% Mobile Responsive:** Pengalaman pengguna yang dioptimalkan dengan cermat dari layar *smartphone* hingga *desktop* *ultrawide*.
-
->>>>>>> 20b5e3109ad7b0a60c32ba58790b1a1fec28461d
